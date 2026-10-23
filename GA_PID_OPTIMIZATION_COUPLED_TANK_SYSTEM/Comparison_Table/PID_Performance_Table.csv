@@ -1,0 +1,7 @@
+Metric,Conventional_PID,GA_Tuned_PID
+ISE,1.561873,1.048785
+Peak Level,1.399459,1.044224
+Peak Time (s),5.008,3.995
+Overshoot (%),39.95,4.42
+Steady-State Error,0.000293,0.00506
+Settling Time (s),14.496,5.901
